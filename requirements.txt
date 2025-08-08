@@ -1,0 +1,3 @@
+cloudscraper
+beautifulsoup4  # If you plan to parse DOM properly instead of regex
+tldextract      # For domain parsing (instead of urllib)
