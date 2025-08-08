@@ -58,4 +58,3 @@ Outputs:
 
 Unlike requests, cloudscraper handles anti-bot JavaScript challenges automatically (like from Cloudflare). Useful for scraping modern, protected websites.
 
-Let me know if you want to extend this (e.g. JavaScript URL extraction, recursive crawling, saving JS file content, etc).
